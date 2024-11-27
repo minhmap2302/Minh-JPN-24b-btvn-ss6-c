@@ -20,9 +20,9 @@ int main() {
             printf("nghiem cua pt %dx^2 + %dx + %d = 0 la %f\n",a ,b ,c ,x1 );
         }else{
             if(c==0){
-                printf("phuong trình vô s? nghi?m");
+                printf("phuong trình vô so nghiem");
             }else{
-                printf("phuong trình vô nghi?m");
+                printf("phuong trình vô nghiem");
             }
         }
     }else if(a!=0){
